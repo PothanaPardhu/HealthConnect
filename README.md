@@ -25,7 +25,7 @@ Enable appointment management & reminders
 Increase safety by reducing fake/incorrect medicines
 
 # ✨ Key Features
-# 👨‍⚕️ Doctor Module
+👨‍⚕️ Doctor Module
 
 Create and upload digital prescriptions
 
@@ -35,7 +35,7 @@ Schedule appointments
 
 Automatic email updates sent to patients
 
-# 🧑‍⚕️ Patient Module
+🧑‍⚕️ Patient Module
 
 Access all prescriptions anytime, anywhere
 
@@ -49,7 +49,7 @@ Set and manage medicine reminders
 
 Book doctor appointments
 
-# 🏪 Pharmacy Module
+🏪 Pharmacy Module
 
 Update and manage medicine stock
 
@@ -57,7 +57,7 @@ Real-time availability displayed to users
 
 Dashboard to track stock and orders
 
-# 🤖 AI Assistant
+🤖 AI Assistant
 
 Understands uploaded prescriptions
 
@@ -69,7 +69,7 @@ Helps with appointment bookings
 
 Flags suspicious or fake-looking prescriptions/medicines
 
-# 🔔 Notification System
+🔔 Notification System
 
 Prescription email alerts
 
