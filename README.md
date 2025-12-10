@@ -304,7 +304,12 @@ Mandala Sai Charan Reddy
 This platform solves real healthcare challenges:
 
 ✔ Prevents lost prescriptions
+
 ✔ Saves patient time by showing real-time medicine availability
+
 ✔ Helps pharmacies manage stock transparently
+
 ✔ Supports patients with AI-based guidance
+
 ✔ Creates a unified, digital healthcare ecosystem
+
