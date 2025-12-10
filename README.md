@@ -1,5 +1,5 @@
-
 🚑 HEALTH CONNECT
+
 AI-Enabled Healthcare System Built with Django
 📌 Overview
 
@@ -226,13 +226,18 @@ myproject/
 └── .gitignore
 
 
-
 🚀 Installation & Setup
+
 git clone https://github.com/PothanaPardhu/HealthConnect.git
+
 cd myproject
+
 pip install -r requirements.txt
+
 python manage.py migrate
+
 python manage.py runserver
+
 
 🖼️  UI SCREENS 
 
