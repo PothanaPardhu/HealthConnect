@@ -159,7 +159,7 @@ SQLite / PostgreSQL
 Email/Notification Services
 
 # 📂 Project Structure
-
+```
 myproject/
 │
 ├── doctor/
@@ -225,7 +225,7 @@ myproject/
 ├── README.md
 ├── venv/
 └── .gitignore
-
+```
 
 # 🚀 Installation & Setup
 
