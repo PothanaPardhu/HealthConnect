@@ -1,6 +1,5 @@
-.
 
-🚑 Digital Prescription & Medicine Availability Platform
+🚑 HEALTH CONNECT
 AI-Enabled Healthcare System Built with Django
 📌 Overview
 
@@ -158,21 +157,21 @@ Other Services
 
 Email/Notification Services
 
-📂 Folder Structure (Example)
-HealthConnect/
+📂 Project Structure
+
+myproject/
 │
-├── doctor/                         # Doctor module
+├── doctor/
 │   ├── migrations/
 │   ├── static/
 │   ├── templates/
-│   ├── __init__.py
 │   ├── admin.py
 │   ├── apps.py
 │   ├── models.py
 │   ├── tests.py
 │   └── views.py
 │
-├── hello/                          # Homepage & general pages
+├── hello/
 │   ├── migrations/
 │   ├── static/
 │   │   ├── image1.png
@@ -180,36 +179,33 @@ HealthConnect/
 │   │   ├── image3.png
 │   │   └── image4.png
 │   ├── templates/
-│   ├── __init__.py
 │   ├── admin.py
 │   ├── apps.py
 │   ├── models.py
 │   ├── tests.py
 │   └── views.py
 │
-├── medicalshop/                    # Pharmacy module
+├── medicalshop/
 │   ├── migrations/
 │   ├── static/
 │   ├── templates/
-│   ├── __init__.py
 │   ├── admin.py
 │   ├── apps.py
 │   ├── models.py
 │   ├── tests.py
 │   └── views.py
 │
-├── user/                           # Authentication & user roles
+├── user/
 │   ├── migrations/
 │   ├── static/
 │   ├── templates/
-│   ├── __init__.py
 │   ├── admin.py
 │   ├── apps.py
 │   ├── models.py
 │   ├── tests.py
 │   └── views.py
 │
-├── myproject/                      # Core Django configuration
+├── myproject/
 │   ├── __pycache__/
 │   ├── __init__.py
 │   ├── asgi.py
@@ -219,15 +215,16 @@ HealthConnect/
 │   ├── urls.py
 │   └── wsgi.py
 │
-├── static/                         # Global static files
+├── static/
 │
-├── .env                            # Environment variables
-├── db.sqlite3                      # Database
-├── manage.py                       # Django management script
-├── requirements.txt                # Project dependencies
-├── README.md                       # Documentation
-├── venv/                           # Virtual environment
-└── .gitignore                      # Git ignored files
+├── .env
+├── db.sqlite3
+├── manage.py
+├── requirements.txt
+├── README.md
+├── venv/
+└── .gitignore
+
 
 
 🚀 Installation & Setup
