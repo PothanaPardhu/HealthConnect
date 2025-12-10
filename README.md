@@ -1,13 +1,14 @@
-🚑 HEALTH CONNECT
+# 🚑 HEALTH CONNECT
 
-AI-Enabled Healthcare System Built with Django
-📌 Overview
+  AI-Enabled Healthcare System Built with Django
+
+# 📌 Overview
 
 The Digital Prescription & Medicine Availability Platform is a full-stack healthcare system that replaces manual prescriptions with secure digital prescriptions, helps patients locate medicines across nearby pharmacies, and provides an AI assistant for prescription analysis, reminders, and appointment support.
 
 The platform connects Doctors, Patients, and Pharmacies into a unified digital ecosystem to ensure faster treatment, improved accessibility, and smarter healthcare decisions.
 
-🎯 Key Objectives
+# 🎯 Key Objectives
 
 Remove dependency on handwritten prescriptions
 
@@ -23,8 +24,8 @@ Enable appointment management & reminders
 
 Increase safety by reducing fake/incorrect medicines
 
-✨ Key Features
-👨‍⚕️ Doctor Module
+# ✨ Key Features
+# 👨‍⚕️ Doctor Module
 
 Create and upload digital prescriptions
 
@@ -34,7 +35,7 @@ Schedule appointments
 
 Automatic email updates sent to patients
 
-🧑‍⚕️ Patient Module
+# 🧑‍⚕️ Patient Module
 
 Access all prescriptions anytime, anywhere
 
@@ -48,7 +49,7 @@ Set and manage medicine reminders
 
 Book doctor appointments
 
-🏪 Pharmacy Module
+# 🏪 Pharmacy Module
 
 Update and manage medicine stock
 
@@ -56,7 +57,7 @@ Real-time availability displayed to users
 
 Dashboard to track stock and orders
 
-🤖 AI Assistant
+# 🤖 AI Assistant
 
 Understands uploaded prescriptions
 
@@ -68,7 +69,7 @@ Helps with appointment bookings
 
 Flags suspicious or fake-looking prescriptions/medicines
 
-🔔 Notification System
+# 🔔 Notification System
 
 Prescription email alerts
 
@@ -76,7 +77,7 @@ Medicine intake reminders
 
 Appointment notifications
 
-🏗️ System Architecture
+# 🏗️ System Architecture
 
 The system follows a modular and secure architecture:
 
@@ -116,7 +117,7 @@ Email notification APIs
 
 Google Gemini AI (for prescription analysis & chatbot)
 
-🧠 How It Works
+# 🧠 How It Works
 
 Doctor uploads a prescription → Stored securely
 
@@ -134,14 +135,14 @@ Reminders & notifications keep the patient on track
 
 Appointments can be set & notified via email
 
-🛠️ Tech Stack
-Backend
+# 🛠️ Tech Stack
+# Backend
 
 Django
 
 Python
 
-Frontend
+# Frontend
 
 HTML, CSS, Bootstrap, JS
 
@@ -149,15 +150,15 @@ AI Integration
 
 Google Gemini API
 
-Database
+# Database
 
 SQLite / PostgreSQL
 
-Other Services
+# Other Services
 
 Email/Notification Services
 
-📂 Project Structure
+# 📂 Project Structure
 
 myproject/
 │
@@ -226,7 +227,7 @@ myproject/
 └── .gitignore
 
 
-🚀 Installation & Setup
+# 🚀 Installation & Setup
 
 git clone https://github.com/PothanaPardhu/HealthConnect.git
 
@@ -239,7 +240,7 @@ python manage.py migrate
 python manage.py runserver
 
 
-🖼️  UI SCREENS 
+# 🖼️  UI SCREENS 
 
   HOME PAGE 
   <img width="1280" height="1063" alt="image" src="https://github.com/user-attachments/assets/6d80fefc-5740-4268-8bc5-8b2375c86193" />
@@ -269,7 +270,7 @@ python manage.py runserver
   <img width="1280" height="608" alt="image" src="https://github.com/user-attachments/assets/e4b51ac2-e538-49f0-a664-14654c22a6b4" />
 
 
-🔮 Future Enhancements
+# 🔮 Future Enhancements
 
 Mobile app (Android/iOS)
 
@@ -285,7 +286,7 @@ Medicine delivery integration
 
 Voice-enabled AI assistant
 
-👥 Team
+# 👥 Team
 
 Pothana Pardhu
 
@@ -298,7 +299,7 @@ Puppireddy Vishwateja
 Mandala Sai Charan Reddy
 
 
-⭐ Why This Project Matters
+# ⭐ Why This Project Matters
 
 This platform solves real healthcare challenges:
 
